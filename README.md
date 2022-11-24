@@ -16,6 +16,7 @@ Projeto desenvolvido para fins didáticos, com o objetivo de entender como funci
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
+* [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
